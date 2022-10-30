@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "@nexes/nql": "0.2.1",
-    "@tryghost/helpers": "1.1.2",
+    "@tryghost/helpers": "1.1.74",
     "@tryghost/members-ssr": "^0.1.1",
     "@tryghost/members-theme-bindings": "^0.1.0",
     "ajv": "6.8.1",
