@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@tryghost/members-gateway-protocol": "^0.1.0",
-    "preact": "^8.2.1",
+    "preact": "^8.5.3",
     "preact-compat": "^3.17.0",
     "react-stripe-elements": "^2.0.3"
   }
