@@ -7,10 +7,10 @@
   resolved "https://registry.yarnpkg.com/@csstools/convert-colors/-/convert-colors-1.4.0.tgz#ad495dc41b12e75d588c6db8b9834f08fa131eb7"
   integrity sha512-5a6wqoJV/xEdbRNKVo6I4hO3VjyDq//8q2f9I6PBAvMesJHFauXDorcNCsr9RzvsZnaWi5NYCcfyqP1QeFHFbw==
 
-"@tryghost/members-gateway-protocol@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@tryghost/members-gateway-protocol/-/members-gateway-protocol-0.1.0.tgz#c57c706d30abe54750288a7f2f89aa1ccbd7d55e"
-  integrity sha512-8zzFkrpRBPmAWRehDZ3b3Ozw3Dnn/SlvFHCc1of5RXiAAlec3PEl0TrYMi/ugBjm0sEiKlWxLW/V/Nx/NV1j3Q==
+"@tryghost/members-gateway-protocol@^0.1.4":
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/@tryghost/members-gateway-protocol/-/members-gateway-protocol-0.1.4.tgz#f9d9dbdc351f47b5d77213217533ba3492a3d66d"
+  integrity sha512-J51ByiYtRkokXcwC3W3Vg7O6NpSS5rhD9mBg9hRLuecMMmZAufItJAPF0IUhcHALEcgMBdbHlX1P5hLDaLajBQ==
   dependencies:
     bluebird "^3.5.4"
     ghost-ignition "^3.1.0"
