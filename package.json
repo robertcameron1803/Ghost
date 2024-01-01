@@ -45,7 +45,7 @@
     "@tryghost/members-theme-bindings": "^0.1.0",
     "ajv": "6.8.1",
     "amperize": "0.3.8",
-    "analytics-node": "3.3.0",
+    "analytics-node": "3.5.0",
     "archiver": "3.0.0",
     "bcryptjs": "2.4.3",
     "bluebird": "3.5.3",
